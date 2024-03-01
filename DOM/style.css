@@ -1,0 +1,11 @@
+.box{
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    color: green;
+    background-color: rgb(231, 215, 215);
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: top 1s, left 1s;
+}
